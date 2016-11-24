@@ -1,0 +1,4 @@
+node_modules/
+.idea/
+isomorphic-react.iml
+public/main.js
