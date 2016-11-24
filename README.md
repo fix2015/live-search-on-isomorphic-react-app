@@ -4,5 +4,5 @@
 ```bash
 npm install
 gulp
-npm start
+node server.js
 ```
